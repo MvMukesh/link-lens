@@ -1,3 +1,4 @@
+### -- configuration file better then setup.py
 [build-system] #will use setuptools library for building this package
 requires = ["setuptools>=60.0", "wheel"]
 build-backends = "setuptools.build_meta"
