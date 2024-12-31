@@ -4,6 +4,7 @@ class InvalidURLException(Exception):
         self.message = message
         super().__init__(self.message)
 
+
 ### More Production centric 
 # class InvalidURLException(Exception):
 #     """
