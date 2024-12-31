@@ -15,4 +15,4 @@ name = "link-lens"
 version = "0.0.1"
 authors = ["MvMukesh <mukeshmanral777@gmail.com>"]
 description = "Python Package link-lens bridges missing link between your digital content and your NoteBook"
-license = "MIT" 
+license = "BSD-3-Clause" 
