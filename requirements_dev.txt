@@ -1,7 +1,7 @@
 ipywidgets
-notebook
-ensure 
+notebook 
 py-youtube
+ensure
 
 #dev req
 pytest
