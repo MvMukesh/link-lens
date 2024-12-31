@@ -11,8 +11,8 @@ mypy_path = "src"
 ignore_missing_imports = true
 
 [project]
-name = "link-lens"
+name = "link_lens"
 version = "0.0.1"
 authors = ["MvMukesh <mukeshmanral777@gmail.com>"]
-description = "Python Package link-lens bridges missing link between your digital content and your NoteBook"
-license = "BSD-3-Clause" 
+description = "Python Package link_lens bridges missing link between your digital content and your NoteBook"
+#license = "BSD-3-Clause" 
