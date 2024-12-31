@@ -5,8 +5,8 @@ with open("README.md","r",encoding="utf-8") as f:
     long_description = f.read()
 
 __version__ = "0.0.1"
-REPO_NAME = "link-lens"
-SRC_REPO = "link-lens"
+REPO_NAME = "link_lens"
+SRC_REPO = "link_lens"
 AUTHOR_USER_NAME = "MvMukesh"
 AUTHOR_EMAIL = "mukeshmanral777@gmail.com"
 
@@ -16,7 +16,7 @@ setuptools.setup(
     version=__version__,
     author=AUTHOR_USER_NAME,
     author_email=AUTHOR_EMAIL,
-    description="Python Package link-lens bridges missing link between your digital content and your NoteBook",
+    description="Python Package link_lens bridges missing link between your digital content and your NoteBook",
     long_description=long_description,
     long_description_content="text/markdown",
     url=f"https://github.com/{AUTHOR_USER_NAME}/{REPO_NAME}",
