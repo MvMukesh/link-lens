@@ -5,3 +5,5 @@
 </p>
 
 <h3>The Missing Link Between Your Digital Content and Your Jupyter Notebook </h3>
+
+A PyPI package that simplifies the integration of external digital content (web pages, APIs, etc.) into your Jupyter/IPython notebooks for enhanced data analysis and exploration.
