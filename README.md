@@ -22,6 +22,11 @@
 </p>
 
 
+[![Playlist Image](https://github.com/user-attachments/assets/a60cf6df-6e4f-4644-87a4-9edc46352ce7)](https://www.youtube.com/watch?v=cjYFSc8nuSw)
+
+<h2><a href="https://www.youtube.com/watch?v=cjYFSc8nuSw">Coding with NonProgrammers</a></h2>
+
+
 <p align="right">
   <kbd><img src="https://github.com/user-attachments/assets/9aeb87b7-e80a-450c-a68b-97d38ccc6b09" height='120' width='100'> </kbd>
 </p>
