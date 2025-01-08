@@ -24,7 +24,7 @@
 
 [![Playlist Image](https://github.com/user-attachments/assets/a60cf6df-6e4f-4644-87a4-9edc46352ce7)](https://www.youtube.com/watch?v=cjYFSc8nuSw)
 
-<h2><a href="https://www.youtube.com/watch?v=cjYFSc8nuSw">Coding with NonProgrammers</a></h2>
+<h2><a href="https://www.youtube.com/watch?v=cjYFSc8nuSw">📦 Coding PyPI package with NonProgrammers</a></h2>
 
 
 <p align="right">
